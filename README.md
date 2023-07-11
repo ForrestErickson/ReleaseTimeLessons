@@ -1,5 +1,5 @@
 # ReleaseTimeLessons
-Lesson Plans for Release Time
+Lesson Plans for Release Time  
 A class by the Rationalists of East Tennessee.
 
 File: Moral_Instruction_Syllabus.md is a class Syllabus for Humanist Moral Instruction
@@ -7,5 +7,6 @@ File: Moral_Instruction_Syllabus.md is a class Syllabus for Humanist Moral Instr
 Folders contain individual lesson plan or plans
 
 <hr>
-Copyright: All rights reserved   
+Copyright Rationalists of East Tennessee: All rights reserved    
+
 Date: July 2023

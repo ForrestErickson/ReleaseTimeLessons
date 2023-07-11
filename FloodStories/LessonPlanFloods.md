@@ -51,30 +51,29 @@ Does the KJV obsure the fact that the Hebrew bible called the diety by a proper 
 Note the user of plural versus singular for the dieity(s) in the Epic of Gilgamesh and the KJV. 
 Referring to the assertions of the Documentary Hypothesis, who (which source) might have made the change and when from plural to singular for the diety? 
 
-Other reading.
+**Other reading.  **
 For a modern style translation of Gilgamesh well-read see: 
 "Gilgamesh: A New English Version", Stephen Mitchell Audio Book read by George Goodall
-https://www.amazon.com/Gilgamesh-audiobook/dp/B0006LBXFY
-This audio book covers not only the text of the epic but an introduction to the recovery of the epic from the library of Naive. 
+https://www.amazon.com/Gilgamesh-audiobook/dp/B0006LBXFY  
+This audio book covers not only the text of the epic but an introduction to the recovery of the epic from the library of library of Ashurbanipal in ancient Nineveh.  
 Listening to this narration may be like the experience of an illiterate person in the presence of a master storyteller.
 
 "The buried book : the loss and rediscovery of the great Epic of Gilgamesh" / David Damrosch.
-Damrosch, David.
+Damrosch, David.  
 This book goes into great detail on the history of the Epic of Gilgamesh and the persons who recovered the story for us.
 
-References:
-Gilgamesh_Flood.pdf a document attached to this lesson
-KJV_Genesis_8.txt  a document attached to this lesson. 
+**References:**
+Gilgamesh_Flood.pdf a document attached to this lesson:  [Gilgamesh_Flood.pdf](Gilgamesh_Flood.pdf)  
+KJV_Genesis_8.txt  a document attached to this lesson:.  [KJV_Genesis_8.txt](KJV_Genesis_8.txt)  
 
-Credits:
+**Credits:**
 Gilgamesh_Flood.pdf is from: https://users.pfw.edu/flemingd/Gilgamesh.pdf  Perdue University Fort Wayne.
-Tablet XI
-
+Tablet XI  
 Noah Flood KJV Genisis 8
-https://www.gutenberg.org/ebooks/10.txt.utf-8
-
+https://www.gutenberg.org/ebooks/10.txt.utf-8  
 <hr>
-<h6>Version: 0.1
+<h6>
+Version: 0.1
 Date: 20230711
 </h6>
 

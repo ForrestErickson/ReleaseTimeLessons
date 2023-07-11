@@ -1,22 +1,7 @@
-Return-Path: <bod+bncbaabb7nkvosqmgqeamnsaey@rationalists.org>
-Delivered-To: forresterickson@comcast.net
-Received: from dovdir4-ch2f-06o.email.comcast.net ([96.102.200.20])
-	by dovback4-ch2f-10o.email.comcast.net with LMTP
-	id uA78CoDVqmREagAAuX+fpg:P1:P1
-	(envelope-from <bod+bncbaabb7nkvosqmgqeamnsaey@rationalists.org>)
-	for <forresterickson@comcast.net>; Sun, 09 Jul 2023 15:42:56 +0000
-Received: from dovpxy-asc-07o.email.comcast.net ([96.102.200.20])
-	by dovdir4-ch2f-06o.email.comcast.net with LMTP
-	id uA78CoDVqmREagAAuX+fpg:P1
-	(envelope-from <bod+bncbaabb7nkvosqmgqeamnsaey@rationalists.org>)
-	for <forresterickson@comcast.net>; Sun, 09 Jul 2023 15:42:56 +0000
-Received: from resimta-h1p-037571.sys.comcast.net ([96.102.200.20])
-	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
-	by dovpxy-asc-07o.email.comcast.net with LMTPS
-	id uA78CoDVqmREagAAuX+fpg
-	(envelope-from <bod+bncbaabb7nkvosqmgqeamnsaey@rationalists.org>)
-
-Syllabus for Humanist Moral Instruction
+# Syllabus for Humanist Moral Instruction
+A Course by the Rationalists of East Tennessee
+Copyright: All rights reserved
+Date: July 2023
 
 Class 1:
 	What is Humanism? What are Humanist ethical positions (overview)?
@@ -29,7 +14,8 @@ Class 3:
 
 Class 4:
 	Christian ethics on trial. 
-		Slavery
+		Mass Murder (The Flood)
+  		Slavery
 		Subjugation of women
 		Attitudes toward the LGBTQ+ communities
 		Attitude toward violence

@@ -6,17 +6,16 @@ While many ancient peoples have flood stories and creation stories involving wat
 
 
 ### Compare and contrast the flood stories of the Epic of Gilgamesh and Genius 8
-Reading assignments:
-Read tablet XI of the Epic of Gilgamesh
-Read Genius Chapter 8
+**Reading assignments:**
+* Read tablet XI of the Epic of Gilgamesh
+* Read Genius Chapter 8
 
-
-Essay question. 
+**Essay question **
 Regarding these flood stories
 Compare (how are they similar?)
 Contrast (how are they different?)
 
-Research. 
+**Research **
 Use the internet. 
 Show the variety of answers, ie provide at lest two answers for each.
 1. When was the Epic of Gilgamesh tablet XI written, both oldest known and inferences from what was written?
@@ -24,12 +23,7 @@ Show the variety of answers, ie provide at lest two answers for each.
 
 Which is older and how might the younger be influenced by the older?
 
-Questions to Ponder
-Both Utanapishtim and Noah release some birds.  
-How many each (How many Utanapishtim and how many )?
-What kind of birds and in order?
-Why were they (Utanapishtim and Noah) releasing birds?
-
+**Translation Matters**
 Referring to the text, after they disembarked both Utanapisthtim and Noah make a "sweet savour" 
 1. How?  
 2. To Whom?
@@ -37,7 +31,6 @@ Referring to the text, after they disembarked both Utanapisthtim and Noah make a
 (https://www.google.com/search?q=translate+hebrew+to+english&oq=translate+hebrew+to&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1NjlqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 For Genesis 8 Google translated the Hebrew verse 21 
 כא וַיָּרַח יְהוָה, אֶת-רֵיחַ הַנִּיחֹחַ, וַיֹּאמֶר יְהוָה
-
 To:
  "21 And Yahweh smelled the odor of the incense, and Yahweh said"
 
@@ -51,7 +44,21 @@ Does the KJV obscure the fact that the Hebrew bible called the deity by a proper
 Note the user of plural versus singular for the deity(s) in the Epic of Gilgamesh and the KJV. 
 Referring to the assertions of the Documentary Hypothesis, who (which source) might have made the change and when from plural to singular for the deity? 
 
-**Other reading.  **
+
+### Class Discussion
+**Questions to Ponder, **
+Both Utanapishtim and Noah release some birds.  
+How many each (How many Utanapishtim and how many )?
+What kind of birds and in order?
+Why were they (Utanapishtim and Noah) releasing birds? (They were left to themsleves to figure out if ther was dry land! Wierd how inconsitant gods are taking care of the sruvival of the boat and yet leaving them to their own devices for the important land fall.)
+
+**Morality **
+Is it moral to kill all cratures?
+Is it moral to kill the innnocent?
+Are not some creatures innocent?
+If aliens are discovered on distant planets are they condemed by the biblical fall of man too?
+
+### Other reading  
 For a modern style translation of Gilgamesh well-read see: 
 "Gilgamesh: A New English Version", Stephen Mitchell Audio Book read by George Goodall
 https://www.amazon.com/Gilgamesh-audiobook/dp/B0006LBXFY 

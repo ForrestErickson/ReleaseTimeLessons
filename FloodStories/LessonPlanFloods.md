@@ -74,5 +74,7 @@ Noah Flood KJV Genisis 8
 https://www.gutenberg.org/ebooks/10.txt.utf-8
 
 <hr>
-Version: 0.1
+<h6>Version: 0.1
 Date: 20230711
+</h6>
+

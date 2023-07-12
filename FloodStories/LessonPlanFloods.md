@@ -2,13 +2,13 @@
 Part of the Rationalists of East Tennessee Release Time Course for the KCS.
 
 ## Lesson Plan, Floods
-While many ancient peoples have flood stories and creation stories involving water, this lesson plane covers only the flood stories from the near east Sumerian (Babylonian) and Hebrew (Biblical) stories.
+While many ancient peoples have flood stories and creation stories involving water, this lesson plan covers only the flood stories from the near east Sumerian (Babylonian) and Hebrew (Biblical) stories.
 
 
-### Compare and contrast the flood stories of the Epic of Gilgamesh and Genius 8
+### Compare and contrast the flood stories of the Epic of Gilgamesh and Genesis 8
 **Reading assignments:**
 * Read tablet XI of the Epic of Gilgamesh
-* Read Genius Chapter 8
+* Read Genesis Chapter 8
 
 **Essay question **
 Regarding these flood stories
@@ -17,9 +17,9 @@ Contrast (how are they different?)
 
 **Research **
 Use the internet. 
-Show the variety of answers, ie provide at lest two answers for each.
+Show the variety of answers, i.e. provide at least two answers for each.
 1. When was the Epic of Gilgamesh tablet XI written, both oldest known and inferences from what was written?
-2. When was Genius 8 written, both the oldest know and inferences from what was written?
+2. When was Genesis 8 written, both the oldest know and inferences from what was written?
 
 Which is older and how might the younger be influenced by the older?
 
@@ -48,15 +48,15 @@ Referring to the assertions of the Documentary Hypothesis, who (which source) mi
 ### Class Discussion
 **Questions to Ponder, **
 Both Utanapishtim and Noah release some birds.  
-How many each (How many Utanapishtim and how many )?
+How many each (How many Utanapishtim and how many Noah)?
 What kind of birds and in order?
-Why were they (Utanapishtim and Noah) releasing birds? (They were left to themsleves to figure out if ther was dry land! Wierd how inconsitant gods are taking care of the sruvival of the boat and yet leaving them to their own devices for the important land fall.)
+Why were they (Utanapishtim and Noah) releasing birds? (They were left to themselves to figure out if there was dry land! Weird how inconsistant gods are taking care of the survival of the boat and yet leaving them to their own devices for the important land fall.)
 
 **Morality **
-Is it moral to kill all cratures?
+Is it moral to kill all creatures?
 Is it moral to kill the innnocent?
 Are not some creatures innocent?
-If aliens are discovered on distant planets are they condemed by the biblical fall of man too?
+If aliens are discovered on distant planets are they condemned by the biblical fall of man too?
 
 ### Other reading  
 For a modern style translation of Gilgamesh well-read see: 
@@ -80,5 +80,5 @@ Noah Flood KJV Genesis 8
 https://www.gutenberg.org/ebooks/10.txt.utf-8 
 
 
-Version: 0.2
+Version: 0.3
 Date: 20230711
